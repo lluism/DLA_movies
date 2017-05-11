@@ -15,9 +15,13 @@ data of the Data Release 12 from the BOSS/SDSS_III collaboration.
 
 Here some webbs and related references:
 http://www2.iap.fr/users/noterdae/
+
 http://www.sdss.org/dr12/algorithms/boss-dr12-quasar-catalog/
+
 http://adsabs.harvard.edu/abs/2013AJ....145...10D
+
 http://adsabs.harvard.edu/abs/2017A%26A...597A..79P
+
 http://adsabs.harvard.edu/abs/2011AJ....142...72E
 
 
@@ -34,4 +38,5 @@ http://adsabs.harvard.edu/abs/2011AJ....142...72E
 * For the DLA spectrum, I indicated most of the metal lines considered in the article, but you might find a few more.
 
 Hope you like them!
+
 Lluis
