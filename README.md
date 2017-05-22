@@ -31,17 +31,17 @@ http://adsabs.harvard.edu/abs/2011AJ....142...72E
 
 
   Several scientifico-technical points:
-* Before playing the video, you will see one red and one black spectra. This are 1, and the average of 2 spectra, respectively.
+* Before playing the video, you will see one red and one black spectra. These are 1 spectrum, and the average of 2 spectra, respectively.
 * Once running, the red spectra always show the "last frame", so you can see what is changing at every step.
-* the number of systems included goes from 1 to 10, adding one spectra every time. From there, the evolution is quadratic, i.e., 
+* the number of systems included goes from 1 to 10, adding one spectra at every step. From there, the evolution is quadratic, i.e., 
   16, 25, 36, 49, etc.
 * I stop the video at ~25000 spectra, where further evolution is small.
 
 * For this calculation, I consider our "total sample" in the article, containing most of the spectra in the overall catalog. 
 * I applied some corrections for outliers, the mean absorption of the Lya forest, possible Lyb contamination, etc. 
-* For computational-speed reasons, I performed a simple linear interpolation instead of our detailed flux-rebining. 
-* For the DLA spectrum, I indicated most of the metal lines considered in the article, but you might find a few more.
+* For computational-speed reasons, I perform a simple linear interpolation instead of our detailed flux-rebining. 
+* For the DLA spectrum, I indicate most of the metal lines considered in the article, but you might find a few more.
 
 Hope you like them!
 
-Lluis
+Lluís
