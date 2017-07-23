@@ -1,11 +1,11 @@
 ## DLA_movies
-# Composite quasar and damped Lyman alpha system spectra - movies
+# Composite Quasar and Damped Lyman Alpha System Spectra - movies
 
   This repositori is linked to our paper "The mean metal-line absorption spectrum of DLAs in BOSS", 
 http://adsabs.harvard.edu/abs/2016arXiv161002711M 
 
 It is created for illustrative purposes. Here I briefly describe the make-off for the movies but, please, 
-check the article for detailed explanations.
+check the article for detailed explanations on the calculations.
 
   Feel free to use the movies for your own scientific purposes, and let me know if you want to know more about this, or 
 have questions, comments, etc. "lluismasribas [AT] gmail [DOT] com "
@@ -32,7 +32,7 @@ http://adsabs.harvard.edu/abs/2011AJ....142...72E
 
   Several scientifico-technical points:
 * Before playing the video, you will see one red and one black spectra. These are 1 spectrum, and the average of 2 spectra, respectively.
-* Once running, the red spectra always show the "last frame", so you can see what is changing at every step.
+  Once running, the red spectra always show the "last frame", so you see what is changing at every step.
 * the number of systems included goes from 1 to 10, adding one spectra at every step. From there, the evolution is quadratic, i.e., 
   16, 25, 36, 49, etc.
 * I stop the video at ~25000 spectra, where further evolution is small.
