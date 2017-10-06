@@ -2,7 +2,7 @@
 # Composite Quasar and Damped Lyman Alpha System Spectra - movies
 
   This repositori is linked to our paper "The mean metal-line absorption spectrum of DLAs in BOSS", 
-http://adsabs.harvard.edu/abs/2016arXiv161002711M 
+http://adsabs.harvard.edu/abs/2017ApJ...846....4M
 
 It is created for illustrative purposes. Here I briefly describe the make-off for the movies but, please, 
 check the article for detailed explanations on the calculations.
@@ -15,9 +15,9 @@ have questions, comments, etc. "lluismasribas [AT] gmail [DOT] com "
 adding more and more spectra to the calculation. We use the DLA catalog made by Pasquier Noterdaeme, who used the 
 data of the Data Release 12 from the BOSS/SDSS_III collaboration.
 
-Here some webbs and related references:
+Here some webs and related references:
 
-http://adsabs.harvard.edu/abs/2016arXiv161002711M
+http://adsabs.harvard.edu/abs/2017ApJ...846....4M
 
 http://www2.iap.fr/users/noterdae/
 
