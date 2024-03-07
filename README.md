@@ -1,5 +1,8 @@
-## DLA_movies
-# Composite Quasar and Damped Lyman Alpha System Spectra - movies
+# DLA_movies
+
+Movies of the build up of composite Quasar and DLA Spectra 
+
+#
 
   This repositori is linked to our paper "The mean metal-line absorption spectrum of DLAs in BOSS", 
 http://adsabs.harvard.edu/abs/2017ApJ...846....4M
