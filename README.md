@@ -2,6 +2,8 @@
 
 Movies of the build up of composite Quasar and DLA Spectra 
 
+[Watch videos in YouTube](https://www.youtube.com/playlist?list=PLpbQJAs61aB1hd6JYJoPQwZf9rDGvcjpv&playnext=1&index=1)
+
 #
 
   This repositori is linked to our paper "The mean metal-line absorption spectrum of DLAs in BOSS", 
